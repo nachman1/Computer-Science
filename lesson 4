@@ -1,0 +1,42 @@
+/*import java.util.Scanner;
+class Main {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter a Sentence with 4 words");
+    String sentence1 = sc.nextLine();
+    int size=sentence1.length();
+    System.out.println(size);
+  }
+}*/
+
+/*import java.util.Scanner;
+class Main {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter a Word with 3 letters");
+    String x = sc.nextLine();
+    char letter1=x.charAt(0); 
+    char letter2=x.charAt(2); 
+    if (letter1==letter2) {
+      System.out.println("True");
+    }
+    else 
+      System.out.println("false");
+  }
+} */
+
+/*import java.util.Scanner;
+class Main {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter a Word with 3 letters");
+    String x = sc.nextLine();
+    char letter1=x.charAt(0); 
+    char letter2=x.charAt(1); 
+    char letter3=x.charAt(2); 
+    System.out.println(letter3+""+letter2+letter1);
+  }
+}*/
+
+    
+
